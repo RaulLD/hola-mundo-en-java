@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Programa "Hola Mundo En Java"
+Hola Mundo
 
 ## Compilación y ejecución del programa
 
@@ -20,3 +20,5 @@ javac holaMundo
 ## Aprendizaje de Java
 
 Te recomiendo el libro [Aprende Java con Ejercicios](https://leanpub.com/aprendejava) :wink:
+
+Programa "Hola Mundo En Java"
