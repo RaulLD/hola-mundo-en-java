@@ -6,7 +6,9 @@
 
 public class holaMundo{
 	public static void main(String[] args){
-		System.out.print("¡Hola Mundo!");
-		System.our.print("Aquí estamos haciendo pruebas con Git.");
+		String naranja = "\033[33m";
+		String azul = "\033[34m";
+		System.out.print(naranja + "¡Hola Mundo!\n");
+		System.out.print(azul + "Aquí estamos haciendo pruebas con Git.");
 	}
 }
