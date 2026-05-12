@@ -45,7 +45,7 @@ OretanIA es un proyecto desarrollado por 4 personas, cada una responsable de dis
 - Manuales:
   - Manual de administrador
   - Manual de usuario
-  - Manual de despliegue
+  - Manual de despliegue (revisión y formato)
 - Herramientas de documentación
 - Aviso de cookies (CSS)
 - Corrección de errores generales
