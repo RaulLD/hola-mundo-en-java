@@ -1,6 +1,6 @@
 # Contribuciones del equipo
 
-OretanIA es un proyecto desarrollado por 4 personas, cada una responsable de distintas áreas.
+Oretan-IA es un proyecto desarrollado por 4 personas, cada una responsable de distintas áreas.
 
 ---
 
