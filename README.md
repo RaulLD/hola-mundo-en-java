@@ -49,3 +49,17 @@ Oretan-IA es un proyecto desarrollado por 4 personas, cada una responsable de di
 - Herramientas de documentación
 - Aviso de cookies (CSS)
 - Corrección de errores generales
+
+---
+
+## Trabajo conjunto (los 4 integrantes)
+
+Las siguientes secciones del proyecto fueron elaboradas de forma colaborativa entre todos los miembros del equipo:
+
+- **1. Portada y datos generales**
+- **2. Introducción**
+- **3. Identificación de las necesidades del sector y viabilidad**
+- **4. Diseño del proyecto**
+- **5. Planificación y gestión de la ejecución del proyecto**
+- **9. Conclusiones finales**
+- **10. Anexos**
